@@ -11,6 +11,7 @@ class Stock_Fun():
         print("Total Price of shares is", self.number_of_share*self.share_price)
 
 
+
 if __name__ == '__main__':
     stock_list = [
         {
